@@ -1,0 +1,6 @@
+(21:56:17) Trying to insert 3 items.
+(21:56:17) Inserted 3 items.
+(21:56:18) Trying to insert 2 items.
+(21:56:19) Inserted 2 items.
+(21:56:20) Trying to insert 2 items.
+(21:56:20) Inserted 2 items.
