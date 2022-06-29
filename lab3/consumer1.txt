@@ -1,8 +1,0 @@
-(21:56:17) Trying to consume 1 items.
-(21:56:17) Consumed 1 items.
-(21:56:18) Trying to consume 2 items.
-(21:56:18) Consumed 2 items.
-(21:56:19) Trying to consume 1 items.
-(21:56:19) Consumed 1 items.
-(21:56:20) Trying to consume 2 items.
-(21:56:20) Consumed 2 items.

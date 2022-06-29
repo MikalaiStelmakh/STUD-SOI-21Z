@@ -1,3 +1,4 @@
+# Lab 3 - Synchronizacja procesów z wykorzystaniem semaforów
 # Zadanie
 - Magazyn o pojemności k sztuk towaru,
 - n konsumentów, każdy z nich jednorazowo odbiera partię towaru w liczbie sztuk ~ U(a, b),

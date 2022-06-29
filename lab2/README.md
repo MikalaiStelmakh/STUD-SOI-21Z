@@ -1,3 +1,4 @@
+# Lab 2 - Szeregowanie procesów
 # Zadanie
 Zrealizować algorytm szeregowania dzielący procesy użytkownika na trzy grupy: procesy interaktywne, procesy obliczeniowe oraz procesy wejścia/wyjścia.
 

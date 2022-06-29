@@ -1,3 +1,5 @@
+# Lab 4 - Synchronizacja procesów z wykorzystaniem monitorów
+
 # Zadanie
 - Magazyn o pojemności k sztuk towaru,
 - n konsumentów, każdy z nich jednorazowo odbiera partię towaru w liczbie sztuk ~ U(a, b),
